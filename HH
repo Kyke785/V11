@@ -50,11 +50,11 @@ local Init = library:Init()
 
 
 
-local Tab1 = Init:NewTab("main tab")
+local Tab1 = Init:NewTab("RP GAMES 🎯")
 
 
 
-local Section1 = Tab1:NewSection("main section")
+local Section1 = Tab1:NewSection("RO GAMES 🎮")
 
 
 
@@ -76,7 +76,7 @@ local Button1 = Tab1:NewButton("V3", function()
 
 end)
 
-local Label1 = Tab1:NewLabel("PROTON", "left")--"left", "center", "right"
+local Label1 = Tab1:NewLabel("ICEHUB", "left")--"left", "center", "right"
 
 local Button1 = Tab1:NewButton("V10", function()
 
@@ -84,11 +84,53 @@ local Button1 = Tab1:NewButton("V10", function()
 
 end)
 
+local Label1 = Tab1:NewLabel("ASS", "left")--"left", "center", "right"
+
+local Button1 = Tab1:NewButton("SUCK", function()
+
+    /console
+
+end)
+
+local Tab1 = Init:NewTab("HOOROR GAMES 🎯")
+
+
+
+local Section1 = Tab1:NewSection("HORROR GAMES 🎮")
+
+
+
+
+
 local Label1 = Tab1:NewLabel("PROTON", "left")--"left", "center", "right"
 
 local Button1 = Tab1:NewButton("V10", function()
 
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kyke785/Kukw/main/Hun",true))();
+
+    end)
+
+local Label1 = Tab1:NewLabel("fly gui", "left")--"left", "center", "right"
+
+local Button1 = Tab1:NewButton("V3", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+
+end)
+
+local Label1 = Tab1:NewLabel("ICEHUB", "left")--"left", "center", "right"
+
+local Button1 = Tab1:NewButton("V10", function()
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Devkigz/CHINAHUB/main/PROTON%20HUB",true))();
+
+end)
+
+local Label1 = Tab1:NewLabel("ASS", "left")--"left", "center", "right"
+
+local Button1 = Tab1:NewButton("SUCK", function()
+
+    /console
 
 end)
 
