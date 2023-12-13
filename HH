@@ -152,17 +152,6 @@ end)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 local FinishedLoading = Notif:Notify("GAND", 4, "success")
 
 
